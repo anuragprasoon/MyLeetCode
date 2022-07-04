@@ -5,8 +5,7 @@ class Solution:
             if operations[i]=="--X" or operations[i]=="X--":
                 operations[i]=-1
                 s-=1
-            if operations[i]=="++X" or operations[i]=="X++":
-               operations[i]=1
+            else:
                s+=1
         return s
             
