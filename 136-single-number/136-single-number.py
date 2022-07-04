@@ -1,6 +1,7 @@
 class Solution:
-    from collections import Counter
     def singleNumber(self, nums: List[int]) -> int:
-        dict = Counter(nums)
-        return [num for num,freq in dict.items() if freq == 1][0]
+        result = Counter(nums)
+        for i in result:
+            if result[i] == 1:
+                return i
         
