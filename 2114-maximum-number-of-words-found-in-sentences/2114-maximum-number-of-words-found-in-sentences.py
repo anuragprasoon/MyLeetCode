@@ -5,6 +5,5 @@ class Solution:
             if len(i.split(" "))>h:
                 h=len(i.split(" "))
         return h
-        """return max([len(sentences[i].split(" ")) for i in range(len(sentences)) ])"""
         
         
