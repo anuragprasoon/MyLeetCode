@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anuragprasoon/MyLeetCode/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/anuragprasoon/MyLeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/anuragprasoon/MyLeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/anuragprasoon/MyLeetCode/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/anuragprasoon/MyLeetCode/tree/master/1894-merge-strings-alternately) |
