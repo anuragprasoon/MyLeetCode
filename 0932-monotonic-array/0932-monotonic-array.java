@@ -11,8 +11,6 @@ class Solution {
             }
         }
         if(mi==1 && md==1) return false;
-        else if(mi==0 && md==1) return true;
-        else if(mi==1 && md==0) return true;
         else return true;
 
     }
