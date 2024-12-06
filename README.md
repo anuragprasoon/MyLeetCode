@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anuragprasoon/MyLeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anuragprasoon/MyLeetCode/tree/master/0066-plus-one) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/anuragprasoon/MyLeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Stack
 |  |
