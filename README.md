@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anuragprasoon/MyLeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/anuragprasoon/MyLeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/anuragprasoon/MyLeetCode/tree/master/0682-baseball-game) |
+| [0890-lemonade-change](https://github.com/anuragprasoon/MyLeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/0932-monotonic-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anuragprasoon/MyLeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/anuragprasoon/MyLeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/anuragprasoon/MyLeetCode/tree/master/1791-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/anuragprasoon/MyLeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
