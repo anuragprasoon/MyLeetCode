@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/anuragprasoon/MyLeetCode/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/anuragprasoon/MyLeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/anuragprasoon/MyLeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/anuragprasoon/MyLeetCode/tree/master/0389-find-the-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anuragprasoon/MyLeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anuragprasoon/MyLeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragprasoon/MyLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/anuragprasoon/MyLeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/anuragprasoon/MyLeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/anuragprasoon/MyLeetCode/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/anuragprasoon/MyLeetCode/tree/master/0890-lemonade-change) |
