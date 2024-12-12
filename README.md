@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragprasoon/MyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anuragprasoon/MyLeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/anuragprasoon/MyLeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/anuragprasoon/MyLeetCode/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/anuragprasoon/MyLeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/0932-monotonic-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anuragprasoon/MyLeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anuragprasoon/MyLeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/anuragprasoon/MyLeetCode/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
