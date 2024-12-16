@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/anuragprasoon/MyLeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/0932-monotonic-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anuragprasoon/MyLeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anuragprasoon/MyLeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/anuragprasoon/MyLeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1791-richest-customer-wealth](https://github.com/anuragprasoon/MyLeetCode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -120,4 +121,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuragprasoon/MyLeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anuragprasoon/MyLeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anuragprasoon/MyLeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
