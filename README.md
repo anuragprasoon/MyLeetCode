@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anuragprasoon/MyLeetCode/tree/master/0389-find-the-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anuragprasoon/MyLeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/anuragprasoon/MyLeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/anuragprasoon/MyLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/anuragprasoon/MyLeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1791-richest-customer-wealth](https://github.com/anuragprasoon/MyLeetCode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/anuragprasoon/MyLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragprasoon/MyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/anuragprasoon/MyLeetCode/tree/master/1791-richest-customer-wealth) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/anuragprasoon/MyLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Greedy
 |  |
 | ------- |
