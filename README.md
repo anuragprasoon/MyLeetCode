@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anuragprasoon/MyLeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anuragprasoon/MyLeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/anuragprasoon/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anuragprasoon/MyLeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/anuragprasoon/MyLeetCode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/anuragprasoon/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anuragprasoon/MyLeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/anuragprasoon/MyLeetCode/tree/master/0389-find-the-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anuragprasoon/MyLeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anuragprasoon/MyLeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragprasoon/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuragprasoon/MyLeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0217-contains-duplicate](https://github.com/anuragprasoon/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anuragprasoon/MyLeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragprasoon/MyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anuragprasoon/MyLeetCode/tree/master/0283-move-zeroes) |
