@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/anuragprasoon/MyLeetCode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/anuragprasoon/MyLeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3632-button-with-longest-push-time](https://github.com/anuragprasoon/MyLeetCode/tree/master/3632-button-with-longest-push-time) |
 ## Math
 |  |
 | ------- |
