@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anuragprasoon/MyLeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anuragprasoon/MyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/anuragprasoon/MyLeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/anuragprasoon/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/anuragprasoon/MyLeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anuragprasoon/MyLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anuragprasoon/MyLeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuragprasoon/MyLeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anuragprasoon/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/anuragprasoon/MyLeetCode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anuragprasoon/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anuragprasoon/MyLeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuragprasoon/MyLeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anuragprasoon/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/anuragprasoon/MyLeetCode/tree/master/0389-find-the-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anuragprasoon/MyLeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/anuragprasoon/MyLeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragprasoon/MyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anuragprasoon/MyLeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anuragprasoon/MyLeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/anuragprasoon/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/anuragprasoon/MyLeetCode/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/anuragprasoon/MyLeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/anuragprasoon/MyLeetCode/tree/master/0724-find-pivot-index) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anuragprasoon/MyLeetCode/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragprasoon/MyLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anuragprasoon/MyLeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anuragprasoon/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
